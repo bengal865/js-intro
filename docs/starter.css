@@ -2,14 +2,6 @@
 /* Project name */
 /* Current date */
 
-/* Reset rule */
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 /* Define CSS variables */
 :root {
   --font-size: 16px;
